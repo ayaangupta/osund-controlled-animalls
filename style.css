@@ -1,0 +1,33 @@
+body{
+background-color: rgb(228, 228, 228);
+font-family: 'Roboto', sans-serif;
+}
+
+#header_div{
+    position: fixed;
+    text-align: center;
+    color: rgb(71, 68, 68);
+    font-weight: bold;
+}
+
+#header_text{
+    color: orange;
+    font-size: 32px;
+}
+
+#img{
+    width: 500px;
+    height: 500px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: blue;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px black;
+}
